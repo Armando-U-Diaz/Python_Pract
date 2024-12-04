@@ -1,5 +1,5 @@
 import numpy as np
-#Definir las ecuacione diferencialaes
+#Definir las ecuacione diferencialaes para mandar a imprimir
 def dC_dt(C,Z):
     return 0.1 * C - 0.02 * C * Z
 def dZ_dt(C,Z):
