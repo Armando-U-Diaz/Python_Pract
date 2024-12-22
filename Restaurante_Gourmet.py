@@ -1,4 +1,4 @@
-nombre_entrante = "Sopa de trufas"
+nombre_entrante = "Sopa de trufa"
 precio_entrante = "12 euros"
 nombre_principal = "Filete Mignon con salsa de vino tinto"
 precio_principal = "30 euros"
